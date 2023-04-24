@@ -84,7 +84,7 @@
         <h1 class="mt-5 text-center" style="color: red;">Horários e preços</h1>
         <div class="row p-2 d-flex- justify-content-center">
           <output>
-            <?php 
+<!--             <?php 
             include_once("php/conect.php");
 
             $query_item = "SELECT COUNT(id_veiculo) AS qtd_car FROM veiculos WHERE saida IS NULL";
@@ -92,7 +92,7 @@
             $row_item = mysqli_fetch_assoc($result_item);
 
             echo "<h3>Vagas disponíveis agora:  " . 200 - $row_item['qtd_car'] . "</h3><br>";
-            ?>
+            ?> -->
           </output>
 
           <div id="timeprice1" class="col-md m-2">
