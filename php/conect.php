@@ -4,10 +4,10 @@
 // $senha = 'tN3JLRmxF7wbXK';
 // $dbname = 'epiz_33943789_sparking';
 
-    $servidor = 'sitebcd-server.mysql.database.azure.com';
-    $usuario = 'liiaqgapzp';
-    $senha = 'B5JDER53I5E76M68$';
-    $dbname = 'sitebcd-database';
+    $servidor = 'spkdatabase.mysql.database.azure.com';
+    $usuario = 'admin1';
+    $senha = 'S#nai@115';
+    $dbname = 'mysql';
 
     $conn = mysqli_connect($servidor, $usuario, $senha, $dbname);
 ?>
