@@ -7,7 +7,7 @@
     $servidor = 'spkdatabase.mysql.database.azure.com';
     $usuario = 'admin1';
     $senha = 'S#nai@115';
-    $dbname = 'mysql';
+    $dbname = 'spkdatabase';
 
     $conn = mysqli_connect($servidor, $usuario, $senha, $dbname);
 ?>
