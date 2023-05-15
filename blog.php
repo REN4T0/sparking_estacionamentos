@@ -60,7 +60,7 @@
         </div>
         
         <div class="row text-center">
-            <h3>Fique por dentro das principais notícias que envolvem o nosso estacionamento.</h3>
+            <h3>Renato esteve aqui! Fique por dentro das principais notícias que envolvem o nosso estacionamento.</h3>
         </div>
         
         <hr>
