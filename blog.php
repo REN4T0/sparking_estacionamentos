@@ -59,9 +59,11 @@
             <h1 class="display-1 fw-bold" id="blog">BLOG</h1>
         </div>
         
-        <div class="row text-center">
+        <!-- <div class="row text-center">
             <h3>Renato esteve aqui! Fique por dentro das principais notícias que envolvem o nosso estacionamento.</h3>
-        </div>
+        </div> -->
+
+        <h1>www.www.com</h1>
         
         <hr>
         <br>
